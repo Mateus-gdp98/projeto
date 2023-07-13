@@ -7,7 +7,8 @@ O Portal do Supermercado é um aplicativo da web projetado para gerenciamento de
 - [Introdução](#introdução)
 - [Recursos](#recursos)
 - [Acesso](#Acesso)
-- [Uso](#uso)
+- [Uso Gerentes](#uso-gerentes)
+- [Uso Clientes](#uso-clientes)
 - [Documentação](#documentação)
 
 ## Introdução
@@ -24,13 +25,18 @@ Com este portal, os gerentes podem facilmente adicionar e atualizar produtos na 
 
 1. Acesse o portal por meio de seu navegador da Web em `http://localhost:3000`
 
-## Uso
+## Uso - Gerentes
 
 1. Acesse o Portal do Supermercado usando suas credenciais.
 2. Navegue pelas diferentes seções (Produtos em Promoção, Clientes) para realizar as ações desejadas.
-3. Adicionar novos e acompanhar a lista de produtos promocionais, ver a carteira de clientes.
-4. Explore os vários recursos e funcionalidades do portal para gerir o seu supermercado de forma eficaz.
+3. Adicione novos produtos e acompanhe a lista dos promocionais, bem como, visualizar a carteira de clientes.
 
+## Uso - Clientes
+
+1. Acesse o Portal do Supermercado usando suas credenciais.
+2. Navegue pelas diferentes seções (Meus pontos, trocar pontos) para realizar as ações desejadas.
+3. Gere o voucher com a quantidade de pontos a serem trocados no caixa.
+   
 ## Documentação
 
 Para documentação detalhada sobre como usar o Portal do Supermercado e seus diversos recursos, consulte o [Guia do Usuário](docs/user-guide.md).
