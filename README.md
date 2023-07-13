@@ -6,11 +6,9 @@ O Portal do Supermercado é um aplicativo da web projetado para gerenciamento de
 
 - [Introdução](#introdução)
 - [Recursos](#recursos)
-- [Instalação](#instalação)
+- [Acesso](#acesso)
 - [Uso](#uso)
 - [Documentação](#documentação)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Introdução
 
